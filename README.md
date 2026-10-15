@@ -32,6 +32,11 @@ Historical employer-supported C# UI framework for embedded-style applications. I
 ### [OpenGL_inject](https://github.com/danielbisar/OpenGL_inject)
 Bounded Linux/GLX rendering-interposition experiment using `LD_PRELOAD`, framebuffer capture, OpenGL state preservation, and a shader-based zoom inset. Kept intentionally small and explicit about its supported scope.
 
+## Open-source contributions
+
+### [LLM Tornado](https://github.com/lofcz/LLMTornado) — [PR #193](https://github.com/lofcz/LLMTornado/pull/193)
+Contributed function-tool support and restorable conversation history to the .NET SDK's direct Codex OAuth integration. The change added streamed tool-call aggregation, host-controlled tool execution, automatic continuation with tool outputs, and typed history restoration that preserves function call IDs across process restarts.
+
 ## Professional background
 
 - Senior IT Consultant / Technical Lead at msg systems ag
